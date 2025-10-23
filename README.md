@@ -94,7 +94,7 @@ Capture account numbers using a flexible regex (\d+)-(\d) and validate before us
 
 Interactive mode (recommended for development):
 npx cypress open
-# Then select the desired spec in the Cypress UI
+Then select the desired spec in the Cypress UI
 
 CI / Headless mode:
 npx cypress run
