@@ -1,9 +1,0 @@
-{
-    "transfer": {
-        "transferValue": "100",
-        "description": "Payment for services"
-    },
-    "message": {
-        "success": "Transferencia realizada com sucesso"
-    }
-}
